@@ -1,16 +1,56 @@
-## Hi there 👋
+## Hey, I'm Juan 👋
 
-<!--
-**AlcantarIGOR/AlcantarIGOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering student building digital systems and ideas with long-term vision.
 
-Here are some ideas to get you started:
+Currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧠 Artificial Intelligence (learning & applying)
+* 🧩 System design & problem solving
+* 🚀 Building real projects
+
+---
+
+## 🔥 What I'm Building
+
+### 📊 MoodleSync
+
+Academic task management system designed to help students organize and track their work more effectively.
+
+* Designed database structure (SQL)
+* Focused on usability and simplicity
+* Currently in development
+
+👉 Live: https://moodlesync.netlify.app/
+
+---
+
+## 🧩 ONYX
+
+A developing initiative focused on creating digital solutions for real-world problems.
+
+Early-stage. Clear direction.
+
+---
+
+## 🌐 Website
+
+Learn more about me and my work:
+👉 https://alcantar1dev.netlify.app/
+
+---
+
+## 💼 Skills
+
+* Python
+* SQL
+* Problem Solving
+* Systems Thinking
+
+---
+
+## 🚀 Current Focus
+
+Building, learning, and improving every day.
+More projects coming soon.
+
+## Github Stats
