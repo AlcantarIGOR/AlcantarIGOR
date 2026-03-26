@@ -54,3 +54,4 @@ Building, learning, and improving every day.
 More projects coming soon.
 
 ## Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlcantarIGOR&theme=ads-juicy-fresh&locale=es)](https://git.io/streak-stats)
