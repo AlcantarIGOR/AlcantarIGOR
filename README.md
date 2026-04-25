@@ -20,7 +20,7 @@ Academic task management system designed to help students organize and track the
 * Focused on usability and simplicity
 * Currently in development
 
-👉 Live: https://moodlesync.netlify.app/
+👉 Live: https://moodlesync.onyxinc.dev/
 
 ---
 
@@ -35,7 +35,7 @@ Early-stage. Clear direction.
 ## 🌐 Website
 
 Learn more about me and my work:
-👉 https://alcantar1dev.netlify.app/
+👉 https://byalcantar-portfolio.vercel.app/
 
 ---
 
