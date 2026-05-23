@@ -21,7 +21,7 @@ I live by the philosophy of **Thinking in Systems**, **Shipping Fast**, and **Bu
 A high-performance SaaS web app that synchronizes Moodle tasks and Mindbox grades into a beautiful, interactive personal space.
 * **Stack:** Next.js 16 · Tailwind CSS v4 · Prisma 7 · PostgreSQL · Web Push · GSAP
 * **Key Features:** Google Calendar-style time-grid, Kanban task-board, offline Pomodoro mode, custom PDF compression, and shared study group boards.
-* **Status:** Live with **400+ active users** at ITCG (Instituto Tecnológico de Ciudad Guzmán).
+* **Status:** Live and deployed for ITCG students (Instituto Tecnológico de Ciudad Guzmán).
 
 ### 🏢 [ONYX Inc.](https://onyxinc.dev)
 > **AI, Web Development & Automation for local businesses in LATAM.**
