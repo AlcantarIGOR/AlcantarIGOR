@@ -1,69 +1,140 @@
-# Juan Alcántar ── @byalcantar
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Founder-ONYX_Inc.-2563EB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Engineering-Student-A3E635?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/SaaS-MoodleSync-4B8CF8?style=for-the-badge&logoColor=white" />
-</div>
 
-<br />
+# Juan Alcántar
 
-I am an **AI Engineering Student** and the **Founder of [ONYX Inc.](https://onyxinc.dev)** based in Ciudad Guzmán, Jalisco, México. I design, build, and deploy digital systems, automation workflows, and AI-driven solutions built to last.
+### AI Engineering Student • Building software that solves real problems
 
-I live by the philosophy of **Thinking in Systems**, **Shipping Fast**, and **Building in Public**.
+<p>
+  <a href="https://github.com/AlcantarIGOR">
+    <img src="https://img.shields.io/badge/GitHub-AlcantarIGOR-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://moodlesync.onyxinc.dev">
+    <img src="https://img.shields.io/badge/MoodleSync-Active%20Project-A3E635?style=for-the-badge"/>
+  </a>
+  <a href="https://onyxinc.dev">
+    <img src="https://img.shields.io/badge/ONYX-Personal%20Lab-2563EB?style=for-the-badge"/>
+  </a>
+</p>
 
----
+> **Building software. Learning every day.**
 
-## ⚡ What I'm Building in 2026
-
-### 💻 [MoodleSync](https://moodlesync.onyxinc.dev)
-> **The student operating system for ITCG.**
-A high-performance SaaS web app that synchronizes Moodle tasks and Mindbox grades into a beautiful, interactive personal space.
-* **Stack:** Next.js 16 · Tailwind CSS v4 · Prisma 7 · PostgreSQL · Web Push · GSAP
-* **Key Features:** Google Calendar-style time-grid, Kanban task-board, offline Pomodoro mode, custom PDF compression, and shared study group boards.
-* **Status:** Live and deployed for ITCG students (Instituto Tecnológico de Ciudad Guzmán).
-
-### 🏢 [ONYX Inc.](https://onyxinc.dev)
-> **AI, Web Development & Automation for local businesses in LATAM.**
-Empowering businesses with managed web systems and sovereign automated agents.
-* **Focus:** n8n self-hosted agents, customized WhatsApp bots, scalable database modeling, and fast deployment.
-* **Philosophy:** *"Your data, keeping it local, making it work 24/7."*
-
-### 🎨 [@byalcantar](https://byalcantar-portfolio.vercel.app/)
-> **My personal brand & tech content journey.**
-Documenting the journey of building in public, writing clean code, and deploying real-world AI applications.
-* **Stack:** Next.js 16 · Tailwind CSS v4 · Framer Motion · SSG
-* **Visual Identity:** Lime Green (`#A3E635`) · Editorial Serif Display · Deep Space Dark
-
----
-
-## 🛠️ The Tech Stack
-
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Framer Motion · GSAP |
-| **Backend & Automations** | Node.js · n8n (Self-Hosted) · Python (Selenium / BeautifulSoup) · Resend |
-| **Database & ORM** | Prisma · PostgreSQL (Supabase) · MS SQL Server |
-| **Deploy & Workflow** | Vercel · Docker · GitHub Actions |
-
----
-
-## 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlcantarIGOR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080809&title_color=A3E635&text_color=e8e8ea&icon_color=2563EB" alt="Juan's GitHub Stats" />
-  
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlcantarIGOR&theme=tokyonight&hide_border=true&background=080809&title=A3E635&ring=2563EB&fire=A3E635&currStreakNum=e8e8ea&sideLabels=9898a6" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 👋 About Me
 
-* 💼 **Corporate Website:** [onyxinc.dev](https://onyxinc.dev)
-* 🎨 **Personal Portfolio:** [byalcantar.dev](https://byalcantar-portfolio.vercel.app/)
-* 📧 **Email:** [founder@onyxinc.dev](mailto:founder@onyxinc.dev)
-* 🐙 **GitHub:** [github.com/AlcantarIGOR](https://github.com/AlcantarIGOR)
-* 📱 **Socials:** TikTok & Instagram `@byalcantar` (Coming soon)
+I'm **Juan Alcántar**, an Artificial Intelligence Engineering student from Mexico.
+
+I enjoy learning through real projects and documenting my progress as a developer. My goal is to build software that solves everyday problems while strengthening my software engineering fundamentals.
+
+Rather than collecting technologies, I prefer understanding them through practice.
+
+---
+
+## 🚀 Current Journey
+
+- 🎓 Studying Artificial Intelligence Engineering
+- ☕ Strengthening Java & Object-Oriented Programming
+- 💻 Building personal software projects
+- 🌱 Learning modern software engineering practices
+- 📚 Exploring Artificial Intelligence and backend development
+
+---
+
+## 📦 Featured Projects
+
+### 📚 MoodleSync
+
+A personal web application created to help students organize academic tasks and improve their daily workflow.
+
+It is currently under active development and continues evolving through real-world use and feedback.
+
+**Project**
+- 🌐 https://moodlesync.onyxinc.dev
+
+---
+
+### ⚫ ONYX
+
+A personal software lab where I experiment with ideas related to web development, automation and artificial intelligence.
+
+ONYX represents my learning journey and the projects I build along the way.
+
+**Website**
+- 🌐 https://onyxinc.dev
+
+---
+
+## 💻 Technologies
+
+### Comfortable With
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,git,github,vscode,idea" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mongodb,nodejs" />
+</p>
+
+> I only include technologies that I've used in projects or I'm actively learning.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlcantarIGOR&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AlcantarIGOR&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlcantarIGOR&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Goals for 2026
+
+- Build software that solves real problems.
+- Strengthen my Java and Software Engineering fundamentals.
+- Continue improving MoodleSync.
+- Learn backend development in depth.
+- Build a solid portfolio through real projects.
+
+---
+
+## 📖 Philosophy
+
+> **Learn. Build. Improve. Repeat.**
+
+I use GitHub as a journal of my growth as a developer.
+
+Every repository represents something I've built, practiced or explored.
+
+My objective isn't to know every technology.
+
+It's to deeply understand the ones I choose to use.
+
+---
+
+## 🌎 Connect
+
+- 🌐 Website → https://onyxinc.dev
+- 📚 MoodleSync → https://moodlesync.onyxinc.dev
+- 🐙 GitHub → https://github.com/AlcantarIGOR
+- 📧 Email → founder@onyxinc.dev
+
+---
+
+<div align="center">
+
+### Thanks for stopping by 👋
+
+*"Building today. Better tomorrow."*
+
+</div>
