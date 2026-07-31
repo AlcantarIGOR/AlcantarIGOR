@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="Juan Alcántar Banner" width="100%" />
+
+<br>
+
 # Juan Alcántar
 
 ### Artificial Intelligence Engineering Student
