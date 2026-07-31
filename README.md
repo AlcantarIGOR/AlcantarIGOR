@@ -2,89 +2,117 @@
 
 # Juan Alcántar
 
-### AI Engineering Student • Building software that solves real problems
+### Artificial Intelligence Engineering Student
 
-<p>
-  <a href="https://github.com/AlcantarIGOR">
-    <img src="https://img.shields.io/badge/GitHub-AlcantarIGOR-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://moodlesync.onyxinc.dev">
+Building software that solves real problems.
+
+<br>
+
+<a href="https://moodlesync.onyxinc.dev">
     <img src="https://img.shields.io/badge/MoodleSync-Active%20Project-A3E635?style=for-the-badge"/>
-  </a>
-  <a href="https://onyxinc.dev">
-    <img src="https://img.shields.io/badge/ONYX-Personal%20Lab-2563EB?style=for-the-badge"/>
-  </a>
-</p>
+</a>
 
-> **Building software. Learning every day.**
+<a href="https://onyxinc.dev">
+    <img src="https://img.shields.io/badge/ONYX-Personal%20Lab-111827?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/AlcantarIGOR">
+    <img src="https://img.shields.io/github/followers/AlcantarIGOR?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-I'm **Juan Alcántar**, an Artificial Intelligence Engineering student from Mexico.
+I'm Juan, an Artificial Intelligence Engineering student from Mexico.
 
-I enjoy learning through real projects and documenting my progress as a developer. My goal is to build software that solves everyday problems while strengthening my software engineering fundamentals.
+I enjoy building software that solves everyday problems while strengthening my software engineering fundamentals.
 
-Rather than collecting technologies, I prefer understanding them through practice.
-
----
-
-## 🚀 Current Journey
-
-- 🎓 Studying Artificial Intelligence Engineering
-- ☕ Strengthening Java & Object-Oriented Programming
-- 💻 Building personal software projects
-- 🌱 Learning modern software engineering practices
-- 📚 Exploring Artificial Intelligence and backend development
+This GitHub is where I document my journey through real projects, experiments and continuous learning.
 
 ---
 
-## 📦 Featured Projects
+# What I'm Building
 
-### 📚 MoodleSync
+## 📚 MoodleSync
 
-A personal web application created to help students organize academic tasks and improve their daily workflow.
+A web application designed to help students organize their academic life.
 
-It is currently under active development and continues evolving through real-world use and feedback.
-
-**Project**
-- 🌐 https://moodlesync.onyxinc.dev
-
----
-
-### ⚫ ONYX
-
-A personal software lab where I experiment with ideas related to web development, automation and artificial intelligence.
-
-ONYX represents my learning journey and the projects I build along the way.
+Currently under active development and continuously improving through real use and feedback.
 
 **Website**
-- 🌐 https://onyxinc.dev
+
+> https://moodlesync.onyxinc.dev
 
 ---
 
-## 💻 Technologies
+## ⚫ ONYX
 
-### Comfortable With
+A personal software lab where I design, build and experiment with ideas related to software development, automation and artificial intelligence.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,git,github,vscode,idea" />
-</p>
+Rather than being a finished company, ONYX represents the place where my ideas become projects.
 
-### Currently Learning
+**Website**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mongodb,nodejs" />
-</p>
-
-> I only include technologies that I've used in projects or I'm actively learning.
+> https://onyxinc.dev
 
 ---
 
-## 📈 GitHub Stats
+# Current Focus
+
+- Java & Object-Oriented Programming
+- Software Engineering Fundamentals
+- Backend Development
+- Artificial Intelligence
+- Building useful software
+
+---
+
+# Technologies I Use
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=php"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=idea"/>
+
+</p>
+
+---
+
+# Currently Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+---
+
+# GitHub
 
 <div align="center">
 
@@ -92,49 +120,32 @@ ONYX represents my learning journey and the projects I build along the way.
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AlcantarIGOR&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlcantarIGOR&theme=tokyo-night&hide_border=true"/>
-
 </div>
 
 ---
 
-## 🎯 Goals for 2026
+# Philosophy
 
-- Build software that solves real problems.
-- Strengthen my Java and Software Engineering fundamentals.
-- Continue improving MoodleSync.
-- Learn backend development in depth.
-- Build a solid portfolio through real projects.
+> Build first.
+>
+> Learn deeply.
+>
+> Improve continuously.
 
----
+Every repository in this profile represents something I've built, explored or learned.
 
-## 📖 Philosophy
+I'm not interested in collecting technologies.
 
-> **Learn. Build. Improve. Repeat.**
-
-I use GitHub as a journal of my growth as a developer.
-
-Every repository represents something I've built, practiced or explored.
-
-My objective isn't to know every technology.
-
-It's to deeply understand the ones I choose to use.
-
----
-
-## 🌎 Connect
-
-- 🌐 Website → https://onyxinc.dev
-- 📚 MoodleSync → https://moodlesync.onyxinc.dev
-- 🐙 GitHub → https://github.com/AlcantarIGOR
-- 📧 Email → founder@onyxinc.dev
+I'm interested in understanding them.
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by 👋
+### Thanks for visiting.
 
-*"Building today. Better tomorrow."*
+Building today.
+
+Learning forever.
 
 </div>
